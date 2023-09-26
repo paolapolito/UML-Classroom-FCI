@@ -9,12 +9,12 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos](#descrição-dos-requisitos)
-- [Diagrama de Casos de Usos](#diagrama-de-comportamento-atores)
-- [Descrição dos Requisitos no Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Sequência](#diagrama-de-ordem-interações)
+- [Autores](#autores)
+- [Descrição do Projeto](#descricao-do-projeto)
+- [Análise de Requisitos](#analise-de-requisitos)
+- [Diagrama de Casos de Usos](#diagrama-de-casos-de-usos)
+- [Descrição dos Requisitos no Casos de Uso](#descrição-dos-requisitos-no-casos-de-uso)
+- [Diagrama de Sequência](#diagrama-de-sequencia)
 - [Referências](#referências)
 
 
@@ -71,8 +71,8 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Referências
 
-*&lt;<h4><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h4>
-<h4><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h4>
-<h4><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h4>
-<h4><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h4>
+*&lt;<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h2>
 &gt;*
