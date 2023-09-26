@@ -10,11 +10,11 @@
 **Conteúdo**
 
 - [Autores](#autores)
-- [Descrição do Projeto](#descricao-do-projeto)
-- [Análise de Requisitos](#analise-de-requisitos)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Análise de Requisitos](#análise-de-requisitos)
 - [Diagrama de Casos de Usos](#diagrama-de-casos-de-usos)
 - [Descrição dos Requisitos no Casos de Uso](#descrição-dos-requisitos-no-casos-de-uso)
-- [Diagrama de Sequência](#diagrama-de-sequencia)
+- [Diagrama de Sequência](#diagrama-de-sequência)
 - [Referências](#referências)
 
 
@@ -55,11 +55,14 @@ segundo é um sistema de software para suportar operações da fábrica de pizza
 Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Análise de Requisitos
-*&lt;Os requisitos necessários são: a localização da fábrica de pizza, localização do cliente, suporte do pedido na fábica.&gt;*
+*&lt; O sistema identificado na descrição do projeto é um sistema que identifica a localização da loja mais próxima do cliente para uma rápida entrega. Para isso e necessário que o sistema, com base no endereço enviado pelo cliente, procure a loja mais próxima de tal endereço por meio de um sistema de proximidade. Anexado à implementação anterior, logo após encontrar a loja mais próxima do cliente, uma solicitação deve ser enviada à pizzaria e logo após decisão do pedido, enviar sua descrição, afim da cozinha começar a preparar o pedido logo após sua confirmação.
+	O sistema deve ser rápido e simples para que não haja complicações no momento de sua execução. Além disso, devemos contar com um bom trabalho eficiente em equipe dos funcionários que atuam na cozinha pra que o pedido seja feito rápido e consequentemente entregue sem demora.
+ &gt;*
 
 # Diagrama de Casos de Usos
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt; <img src = "casos-de-uso.jpeg"/>
+&gt;*
 
 # Descrição dos Requisitos no Casos de Uso
 
