@@ -3,75 +3,76 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Projeto NTP  -  Pizza-Express&gt;*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
 - [Autores](#nome-alunos)
-- [Descrição do projeto](#introdução-do-projeto)
-- [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
-- [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
-- [Descrição dos casos de uso](#descrição-das-funcões)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
-- [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
+- [Descrição do Projeto](#introdução-do-projeto)
+- [Análise de Requisitos](#descrição-dos-requisitos)
+- [Diagrama de Casos de Usos](#diagrama-de-comportamento-atores)
+- [Descrição dos Requisitos no Casos de Uso](#descrição-das-funcões)
+- [Diagrama de Sequência](#diagrama-de-ordem-interações)
 - [Referências](#referências)
 
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Allan Cardoso dos Santos -  TIA: 32361815
+* Fernando Morales Peres   -  TIA: 32349459
+* Lucas Delsoci Cardoso    -  TIA: 32331169
+* Paola Polito             -  TIA: 32329687
 
 
-# Descrição do projeto
+# Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;Contexto da História (Problema ou Demanda)
 
-# Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
 
-# Diagrama de casos de uso
+Pizza-Express tem perdido recentemente 30% do rendimento de vendas devido a um problema em seu negócio da entrega. Atribuem este problema a seu concorrente principal que promoveu um programa que garante o serviço de entrega em 30 minutos, desde a entrada da ordem de serviço até a entrega na casa do cliente (delivery).
+
+Pizza-Express anuncia a entrega em uma hora.
+
+Pizza-Express usa atualmente computadores para armazenar as operações e as funções usuais do negócio, mas não auxiliam nas funções para processar a entrega dos pedidos dos seus clientes.
+
+Elonn Muske, o gerente de sistemas de informação é o encarregado para desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las.
+
+O patrocinador deste projeto, a empresa Papa-Léguas Delivery, disse que o futuro da Pizza-Express depende deste projeto.
+
+A equipe deverá investigar uma opção para entregar a pizza em menos de 30 minutos.
+
+A sua idéia é montar lojas de pizza Pizza-Express que não teriam nenhum espaço de varejo, pois a sua função é somente receber ordens, preparar e entregar as pizzas.
+
+A loja deverá ser localizada o mais próximo do cliente receberá a ordem através de uma central, processará, e entregará a ordem dentro de 10 ou 15 minutos da entrada do pedido.
+
+Há dois projetos do desenvolvimento do software identificados aqui:
+
+primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; e
+segundo é um sistema de software para suportar operações da fábrica de pizzas.
+Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
+
+# Análise de Requisitos
+*&lt;Os requisitos necessários são: a localização da fábrica de pizza, localização do cliente, suporte do pedido na fábica.&gt;*
+
+# Diagrama de Casos de Usos
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
-# Descrição dos casos de uso
+# Descrição dos Requisitos no Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-# Diagrama de sequencia
+# Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
 # Referências
 
-*&lt;Lista de referências&gt;*
+*&lt;<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h2>
+<h2><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h2>
+&gt;*
