@@ -66,7 +66,8 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Descrição dos Requisitos no Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+*&lt; <>img src = "espec-caso-de-uso.jpeg"/>
+&gt;*
 
 # Diagrama de Sequência
 
