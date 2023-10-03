@@ -1,36 +1,17 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-
-# Engenharia de Software
-
-O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
-
-A seguir, os passos para a preparação do projeto:
-
-1. Um dos membros do grupo deverá realizar um *fork* deste repositório.
-2. O dono do repositório deverá convidar os demais membros do grupo para serem colaboradores.
-3. O dono do repositório deverá convidar o professor para ser colaborador do repositório.
-4. O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o [procedimento para habilitar o GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), lembrando de escolher em *Source* a opção `/docs` em lugar da opção `/root`.
-5. Cada membro do grupo deverá instalar o [Git](https://git-scm.com/downloads).
-6. Para a edição do conteúdo deste projeto, sugere-se que cada membro do grupo faça a instalação do [Visual Studio Code](https://code.visualstudio.com/) com as extensões [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) e [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github). No entanto, cada membro poderá utilizar a IDE de sua preferência.
-7. Cada membro do grupo deverá [clonar o repositório do grupo no seu computador](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
-8. Cada membro do grupo deverá editar o seu próprio nome no arquivo em [/docs/index.md](./docs/index.md), de preferência [criando um novo *branch* e um *pull request*](https://www.youtube.com/watch?v=LdSwWxVzUpo).
-9. O dono do repositório deverá editar este arquivo, removendo estas instruções iniciais e preenchendo o restante da página com os dados do projeto do seu grupo.
-10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
-
-
-# Projeto: Projeto Pizzaria
+# Projeto de Engenharia de Software: Projeto Pizzaria
 
 # Grupo: Grupo NTP
 <h3> Alunos:</h3>
-<h2>Allan Cardoso dos Santos - TIA: 32361815</h2>
-<h2>Fernando Morales Peres - TIA: 32349459</h2>
-<h2>Lucas Delsoci Cardoso - TIA: 32331169</h2>
-<h2>Paola Polito - TIA: 32329687</h2>
+<h4>Allan Cardoso dos Santos - TIA: 32361815</h4>
+<h4>Fernando Morales Peres - TIA: 32349459</h4>
+<h4>Lucas Delsoci Cardoso - TIA: 32331169</h4>
+<h4>Paola Polito - TIA: 32329687</h4>
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+Este projeto visa desenvolver um sistema de software para melhorar o serviço de entrega da Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa. O sistema consiste em dois módulos: um para o atendimento do pedido e outro para as operações da fábrica de pizzas. O objetivo é reduzir o tempo de entrega para menos de 30 minutos, competindo com o principal concorrente que oferece esse serviço. O sistema deverá identificar a localização da loja mais próxima do cliente e enviar a ordem para ela. A loja deverá preparar e entregar a pizza em 10 ou 15 minutos. O projeto é patrocinado pela empresa Papa-Léguas Delivery, que afirma que o futuro da Pizza-Express depende deste projeto. A equipe deverá ser profissional e colaborativa.
 
 # Documentação
 
