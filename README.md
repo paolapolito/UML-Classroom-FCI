@@ -2,8 +2,8 @@
 
 # Projeto de Engenharia de Software: Projeto Pizzaria
 
-# Grupo: Grupo NTP
-<h3> Alunos:</h3> 
+# Grupo: NTP
+<h2> Alunos:</h2> 
 Allan Cardoso dos Santos - TIA: 32361815 <br/>
 Fernando Morales Peres - TIA: 32349459 <br/>
 Lucas Delsoci Cardoso - TIA: 32331169 <br/>
