@@ -61,13 +61,12 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Diagrama de Casos de Usos
 
-*&lt; <img src = "casos-de-uso.jpeg"/>
+*&lt; <img src = "docs/casos-de-uso.jpeg"/>
 &gt;*
 
 # Descrição dos Requisitos no Casos de Uso
 
-*&lt; <img src = "espec-caso-de-uso.jpeg"/>
-&gt;*
+*&lt; <img src = "docs/espec-caso-de-uso.jpeg"/> &gt;*
 
 # Diagrama de Sequência
 
