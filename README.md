@@ -4,10 +4,10 @@
 
 # Grupo: Grupo NTP
 <h3> Alunos:</h3>
-<h4>Allan Cardoso dos Santos - TIA: 32361815</h4>
-<h4>Fernando Morales Peres - TIA: 32349459</h4>
-<h4>Lucas Delsoci Cardoso - TIA: 32331169</h4>
-<h4>Paola Polito - TIA: 32329687</h4>
+<h7>Allan Cardoso dos Santos - TIA: 32361815</h7>
+<h7>Fernando Morales Peres - TIA: 32349459</h7>
+<h7>Lucas Delsoci Cardoso - TIA: 32331169</h7>
+<h7>Paola Polito - TIA: 32329687</h7>
 
 # Descrição
 
