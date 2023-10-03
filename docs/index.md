@@ -61,7 +61,7 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Diagrama de Casos de Usos
 
-*&lt; <img src = "casos-de-uso.jpeg"/>
+*&lt; <img src = "casos-de-usoat.jpeg"/>
 &gt;*
 
 # Descrição dos Requisitos no Casos de Uso
@@ -70,12 +70,16 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*&lt; <img src = "diagrama-de-sequencia.jpeg"/>
+&gt;*
 
 # Referências
 
-*&lt;<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h7>
-<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7>
-<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h7>
-<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h7>
+*&lt;<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1560019/mod_resource/content/1/Diagrama%20de%20Sequ%C3%AAncia%20-%20Explica%C3%A7%C3%A3o%202.pdf">Slides de Diagrama de sequência - explicação2</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7> <br/>
 &gt;*
+
