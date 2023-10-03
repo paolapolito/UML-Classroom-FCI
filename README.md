@@ -1,7 +1,7 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
 
-# Template para Disciplina de Engenharia de Software
+# Engenharia de Software
 
 O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
 
@@ -22,6 +22,11 @@ A seguir, os passos para a preparação do projeto:
 # Projeto: Projeto Pizzaria
 
 # Grupo: Grupo NTP
+<h3> Alunos:</h3>
+<h2>Allan Cardoso dos Santos - TIA: 32361815</h2>
+<h2>Fernando Morales Peres - TIA: 32349459</h2>
+<h2>Lucas Delsoci Cardoso - TIA: 32331169</h2>
+<h2>Paola Polito - TIA: 32329687</h2>
 
 # Descrição
 
