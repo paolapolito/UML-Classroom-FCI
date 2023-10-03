@@ -3,11 +3,11 @@
 # Projeto de Engenharia de Software: Projeto Pizzaria
 
 # Grupo: Grupo NTP
-<h3> Alunos:</h3>
-<h7>Allan Cardoso dos Santos - TIA: 32361815</h7>
-<h7>Fernando Morales Peres - TIA: 32349459</h7>
-<h7>Lucas Delsoci Cardoso - TIA: 32331169</h7>
-<h7>Paola Polito - TIA: 32329687</h7>
+<h3> Alunos:</h3> 
+Allan Cardoso dos Santos - TIA: 32361815 <br/>
+Fernando Morales Peres - TIA: 32349459 <br/>
+Lucas Delsoci Cardoso - TIA: 32331169 <br/>
+Paola Polito - TIA: 32329687 <br/>
 
 # Descrição
 
