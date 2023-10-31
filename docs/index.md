@@ -15,6 +15,8 @@
 - [Diagrama de Casos de Usos](#diagrama-de-casos-de-usos)
 - [Descrição dos Requisitos no Casos de Uso](#descrição-dos-requisitos-no-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Componentes](#diagrama-de-componentes)
 - [Referências](#referências)
 
 
@@ -71,6 +73,14 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 # Diagrama de Sequência
 
 *&lt; <img src = "diagrama-de-sequencia.jpeg"/>
+&gt;*
+
+# Diagrama de Classes
+*&lt; <img src = "diagrama-de-classes.jpeg"/>
+&gt;*
+
+# Diagrama de Componentes
+*&lt; <img src = "diagrama-de-componentes.jpeg"/>
 &gt;*
 
 # Referências
