@@ -91,5 +91,9 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h7> <br/>
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h7> <br/>
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1579168/mod_resource/content/3/uml-componentes.pdf">Slides do Diagrama de Componentes</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1579169/mod_resource/content/2/UML-component-diagram.pdf">Slides do Diagrama de Componentes 2</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides do Diagrama de Sequencia </a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1560019/mod_resource/content/1/Diagrama%20de%20Sequ%C3%AAncia%20-%20Explica%C3%A7%C3%A3o%202.pdf">Slides do Diagrama de Sequencia 2</a></h7> <br/>
 &gt;*
 
