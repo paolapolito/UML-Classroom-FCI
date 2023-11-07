@@ -1,5 +1,3 @@
-# Pasta de código-fonte
-
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
@@ -17,6 +15,8 @@
 - [Diagrama de Casos de Usos](#diagrama-de-casos-de-usos)
 - [Descrição dos Requisitos no Casos de Uso](#descrição-dos-requisitos-no-casos-de-uso)
 - [Diagrama de Sequência](#diagrama-de-sequência)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Componentes](#diagrama-de-componentes)
 - [Referências](#referências)
 
 
@@ -75,6 +75,14 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 *&lt; <img src = "diagrama-de-sequencia.jpeg"/>
 &gt;*
 
+# Diagrama de Classes
+*&lt; <img src = "diagrama-de-classes.jpeg"/>
+&gt;*
+
+# Diagrama de Componentes
+*&lt; <img src = "diagrama-de-componentes.jpeg"/>
+&gt;*
+
 # Referências
 
 *&lt;<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides de Diagrama de Sequência</a></h7> <br/>
@@ -84,3 +92,4 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h7> <br/>
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7> <br/>
 &gt;*
+
