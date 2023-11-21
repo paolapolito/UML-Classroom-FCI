@@ -17,6 +17,8 @@
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Componentes](#diagrama-de-componentes)
+- [Decisão da Arquitetura](#decisão-de-arquitetura)
+- [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
@@ -81,6 +83,14 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Diagrama de Componentes
 *&lt; <img src = "diagrama-de-componentes.jpeg"/>
+&gt;*
+
+# Decisão da Arquitetura
+*&lt; <img src = "desisão-de-arquitetura.jpeg"/>
+&gt;*
+
+# Diagrama de Implantação
+*&lt; <img src = "diagrama-de-implantaçao.jpeg"/>
 &gt;*
 
 # Referências
