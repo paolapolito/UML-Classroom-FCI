@@ -17,6 +17,8 @@
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Componentes](#diagrama-de-componentes)
+- [Decisão da Arquitetura](#decisão-de-arquitetura)
+- [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
@@ -63,24 +65,46 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 
 # Diagrama de Casos de Usos
 
-*&lt; <img src = "casos-de-usoat.jpeg"/>
+*&lt; <img src = "docs/casos-de-usoat.jpeg"/>
 &gt;*
 
 # Descrição dos Requisitos no Casos de Uso
 
-*&lt; <img src = "espec-caso-de-uso.jpeg"/> &gt;*
+*&lt; <img src = "docs/espec-caso-de-uso.jpeg"/> &gt;*
 
 # Diagrama de Sequência
 
-*&lt; <img src = "diagrama-de-sequencia.jpeg"/>
+*&lt; <img src = "docs/diagrama-de-sequencia.jpeg"/>
 &gt;*
 
 # Diagrama de Classes
-*&lt; <img src = "diagrama-de-classes.jpeg"/>
+*&lt; <img src = "docs/diagrama-de-classes.jpeg"/>
 &gt;*
 
 # Diagrama de Componentes
-*&lt; <img src = "diagrama-de-componentes.jpeg"/>
+*&lt; <img src = "docs/diagrama-de-componentes.JPG"/>
+&gt;*
+
+# Decisão da Arquitetura
+*&lt; O objetivo deste projeto é desenvolver um sistema de software robusto para a Pizza-Express, visando otimizar o processo de pedido e entrega, com especial atenção à segurança na comunicação entre o cliente e o sistema.
+
+Na arquitetura do sistema, o módulo de localização utiliza serviços de geolocalização, como a API do Google Maps, para obter o endereço do cliente e identificar a loja mais próxima. Algoritmos de proximidade são empregados para determinar a loja ideal com base na localização do cliente. O módulo de atendimento de pedido oferece uma interface intuitiva para que o cliente envie seus pedidos, gerando códigos de segurança únicos para cada transação. A confirmação imediata do pedido inclui informações como o tempo estimado de entrega e o código de segurança. A integração e comunicação entre esses módulos são realizadas por meio de APIs RESTful seguras, com o uso de tokens de autenticação para garantir a segurança na troca de informações.
+
+No sistema de suporte às operações da fábrica de pizzas, o módulo de preparação de pedidos possui uma interface dedicada para a equipe da cozinha visualizar e confirmar pedidos. Autenticação dupla é implementada para garantir a integridade do pedido e prevenir manipulações não autorizadas. O controle de estoque é gerenciado por um banco de dados centralizado, com acesso restrito usando mecanismos de controle de acesso. A integração com o sistema de entrega inclui um sistema de rastreamento com autenticação forte para assegurar a segurança da informação.
+
+Diversas tecnologias são utilizadas para garantir a segurança na comunicação, como a implementação de OAuth para autenticação segura entre módulos e o uso de tokens JWT (JSON Web Tokens) para autenticação e autorização.
+
+Alguns desafios e considerações abordados incluem a segurança na geração de códigos, com a implementação de algoritmos robustos e medidas contra ataques de força bruta. A proteção contra interceptação é assegurada pelo uso de criptografia na comunicação entre o cliente e o sistema.
+
+No aspecto de colaboração e profissionalismo, são realizadas sessões de treinamento dedicadas à equipe para garantir a compreensão da importância da segurança. Simulações de ameaças são conduzidas para testar a resiliência do sistema. Além disso, mecanismos de resposta a incidentes são estabelecidos, incluindo um plano para agir rapidamente em caso de violação de segurança.
+
+A avaliação contínua do sistema inclui auditorias regulares para identificar e corrigir possíveis vulnerabilidades, com atualizações contínuas baseadas nas últimas práticas de segurança.
+
+Ao integrar camadas adicionais de segurança, como códigos de segurança únicos e autenticação forte entre os módulos, o sistema Pizza-Express busca assegurar a confidencialidade e integridade dos dados, proporcionando aos clientes uma experiência segura e confiável.
+&gt;*
+
+# Diagrama de Implantação
+*&lt; <img src = "docs/diagrama-de-implantaçao.jpeg"/>
 &gt;*
 
 # Referências
@@ -91,5 +115,8 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Modelagem de sistemas com diagrama de casos de uso </a></h7> <br/>
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf">Slides da Introdução à Engenharia de Software </a></h7> <br/>
 <h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf">Slides de Descrição de Casos de Uso</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1579168/mod_resource/content/3/uml-componentes.pdf">Slides do Diagrama de Componentes</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1579169/mod_resource/content/2/UML-component-diagram.pdf">Slides do Diagrama de Componentes 2</a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf">Slides do Diagrama de Sequencia </a></h7> <br/>
+<h7><a href= "https://graduacao.mackenzie.br/pluginfile.php/1560019/mod_resource/content/1/Diagrama%20de%20Sequ%C3%AAncia%20-%20Explica%C3%A7%C3%A3o%202.pdf">Slides do Diagrama de Sequencia 2</a></h7> <br/>
 &gt;*
-
