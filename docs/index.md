@@ -82,7 +82,7 @@ Importante: Dá equipe se exigem profissionalismo e colaboração mútua.&gt;*
 &gt;*
 
 # Diagrama de Componentes
-*&lt; <img src = "diagrama-de-componentes.jpeg"/>
+*&lt; <img src = "diagrama-de-componentes.JPG"/>
 &gt;*
 
 # Decisão da Arquitetura
